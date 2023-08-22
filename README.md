@@ -16,16 +16,16 @@ End Points:
 - CT (x-kpsdk-ct & x-kpsdk-st)
 ```
 
-
-
-How to run:
+Features:
 ```
-Soon...
+Fast
+Easy to config & run
+Create accounts easily without getting flagged...
 ```
 
 Questions ?
 ```
-Join discord server and ask me...
+Contact me on discord (link above)
 ```
 
 📌 Disclaimer 📌
