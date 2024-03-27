@@ -10,6 +10,17 @@
 
 ###
 
+Working Sites:
+- Twitch
+
+Sites to add:
+
+- Sony
+- Kick
+- Sephora
+- Vercel
+
+
 End Points:
 ```
 - CD (x-kpsdk-cd)
