@@ -4,9 +4,11 @@
 
 <h2>Preview</h2>
 
-<p align="center">Both<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744103831801856/image.png"></p>
-<p align="center">x-kpsdk-cd<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744745656799272/image.png"></p>
-<p align="center">x-kpsdk-ct<img src="https://cdn.discordapp.com/attachments/1067526836168433786/1140744590979239966/image.png"></p>
+
+
+https://github.com/catcha8/Kasada.io-API/assets/89837052/a4031a9c-ed3f-45b9-bb22-d8bd4743bde5
+
+
 
 ###
 
