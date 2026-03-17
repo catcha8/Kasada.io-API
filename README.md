@@ -1,48 +1,8 @@
-<h1>Kasada.io reverse engineering</h1>
+# Fully working Kasada.io solver
 
-<h4>Discord Server: <a href="https://discord.gg/c6FC9YnC27]">discord.gg/c6FC9YnC27</a></h4> 
+[discord.gg/nslsolver](discord.gg/nslsolver)
+[https://nslsolver.com](https://nslsolver.com)
 
-<h2>Preview</h2>
+# https://youtu.be/nmLt6mSo--8?si=Xk5kepWntI8AaUrO
 
-
-
-https://github.com/catcha8/Kasada.io-API/assets/89837052/a4031a9c-ed3f-45b9-bb22-d8bd4743bde5
-
-
-
-###
-
-Working Sites:
-- Twitch
-
-Sites to add:
-
-- Sony
-- Kick
-- Sephora
-- Vercel
-
-###
-
-End Points:
-```
-- CD (x-kpsdk-cd)
-- CT (x-kpsdk-ct & x-kpsdk-st)
-```
-
-Features:
-```
-Fast
-Easy to config & run
-Create accounts easily without getting flagged...
-```
-
-Questions ?
-```
-Contact me on discord (link above)
-```
-
-📌 Disclaimer 📌
-
-Please use this program only for educational purposes. It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
- 
+<img width="1113" height="1294" alt="img" src="https://github.com/user-attachments/assets/74da057a-db9a-41cc-8349-0c69706bb28d" />
