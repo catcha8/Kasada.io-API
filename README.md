@@ -1,6 +1,6 @@
 # Fully working Kasada.io solver
 
-[discord.gg/nslsolver](discord.gg/nslsolver)
+[discord.gg/nsl-solver](discord.gg/nsl-solver)
 [https://nslsolver.com](https://nslsolver.com)
 
 # https://youtu.be/nmLt6mSo--8?si=Xk5kepWntI8AaUrO
